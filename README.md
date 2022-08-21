@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://vk.com/osikosm" target="_blank">Sonja</a> 
-<img src="https://user-images.githubusercontent.com/98958055/185810637-18044aa4-bf0b-479e-afa7-3e44738ab617.gif" height="46"/></h1>
+<h1 align="center">💾 Hi there, I'm <a href="https://vk.com/osikosm" target="_blank">Sonja</a> 💾</h1>
 
 <h3 align="center">Aerospace Engineering Student, ✨ shitcode ✨ writer and C/C++ Developer at the same time</h3>
 
